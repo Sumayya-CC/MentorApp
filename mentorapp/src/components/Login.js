@@ -1,7 +1,7 @@
 import React, {Component} from 'react';
 import '../styles/Login.css';
-import Tarento from '../image/Tarento.png';
-import Logo from '../image/Logo.png';
+import Tarento from '../Image/Tarento.png';
+import Logo from '../Image/Logo.png';
 import { TextField } from '@material-ui/core';
 import { withStyles } from "@material-ui/core/styles";
 import Button from '@material-ui/core/Button';
